@@ -61,46 +61,16 @@ ol.link{
     border-radius: 10px;
 }
 
-figure.botones{
-
-    text-align: left;
-}
-
 .container {
     width: 44%; 
     margin: 0 auto; 
     text-align: center;
   }
-figure.gatoto{
-    background: rgba(5, 7, 12,0.75);
-    display: flex ;
-    text-align: left;
-    width: 20%; 
-    margin: 0 auto;
-    border-radius: 10px;
 
-}
-
-div.boton1{
-    background: rgba(5, 7, 12,0.75);
+  div.botones{
     display: flex;
-    text-align: center;
     justify-content: center;
-    width: 20%; 
-    margin: 0 auto;
-    border-radius: 10px;
-
-}
-div.boton2{
-    background: rgba(5, 7, 12,0.75);
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    width: 20%; 
-    margin: 0 auto;
-    border-radius: 10px;
-
-}
+  }
 
 
 
