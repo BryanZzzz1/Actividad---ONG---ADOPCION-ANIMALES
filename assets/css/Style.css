@@ -1,0 +1,107 @@
+.cuerpo{
+    background: url(../img/back.jpg);
+    background-size: auto;
+}
+h1.titulo{
+    text-transform: uppercase;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top:auto;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%; 
+    margin: 0 auto;
+}
+p.resumen{
+  text-align: center;
+  background: rgba(5, 7, 12,0.75);
+  color: white;
+}
+
+h2.subtitulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 40%; 
+    margin: 0 auto;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+
+h2.subtitulo2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 40%; 
+    margin: 0 auto;
+    border-radius: 10px;
+    text-transform: uppercase;
+    
+}
+
+div.cargo{
+
+    text-align:left;
+    background-color: black;
+    width: 40%; 
+    margin: 0 auto;
+    color: white;
+    border-radius: 10px;
+
+
+}
+ol.link{
+    text-align:center;
+    background-color: black;
+    width: 40%; 
+    margin: 0 auto;
+    color: white;
+
+    border-radius: 10px;
+}
+
+figure.botones{
+
+    text-align: left;
+}
+
+.container {
+    width: 44%; 
+    margin: 0 auto; 
+    text-align: center;
+  }
+figure.gatoto{
+    background: rgba(5, 7, 12,0.75);
+    display: flex ;
+    text-align: left;
+    width: 20%; 
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+div.boton1{
+    background: rgba(5, 7, 12,0.75);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 20%; 
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+div.boton2{
+    background: rgba(5, 7, 12,0.75);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 20%; 
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+
+
+
