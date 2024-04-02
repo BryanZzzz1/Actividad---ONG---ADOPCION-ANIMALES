@@ -1,0 +1,59 @@
+body.cuerpito{
+    background: url(../img/caninos.jpg);
+}
+
+h1.titulo2{
+
+    text-transform: uppercase;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top:auto;
+    border-radius: 10px;
+    padding: 15px;
+    width: 62%; 
+    margin: 0 auto;
+}
+
+h2.subtitulo22{
+    text-transform: uppercase;
+    text-align: center;
+    background: rgba(5, 7, 12,0.75);
+    color: white;
+    margin-top:auto;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%; 
+    margin: 0 auto;
+}
+
+p.resumen{
+    text-align: center;
+    background: rgba(5, 7, 12,0.75);
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    width: 44%; 
+    margin: 0 auto; 
+}
+
+figure.container{
+
+}
+
+h1.caninos1{
+    
+    text-align: center;
+    background: rgba(5, 7, 12,0.75);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 40%;
+    margin: 0 auto;
+
+}
+
+div.perri{
+    display: flex;
+    justify-content: center;
+}
