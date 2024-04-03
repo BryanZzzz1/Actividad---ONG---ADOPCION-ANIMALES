@@ -1,0 +1,10 @@
+.cuerpo{
+    background: url(../img/back.jpg);
+}
+
+ol{
+    text-align: left;
+    margin: 10 auto;
+    text-transform: capitalize;
+    
+}

@@ -37,10 +37,6 @@ p.resumen{
     margin: 0 auto; 
 }
 
-figure.container{
-
-}
-
 h1.caninos1{
     
     text-align: center;
@@ -56,4 +52,5 @@ h1.caninos1{
 div.perri{
     display: flex;
     justify-content: center;
+
 }
