@@ -1,0 +1,67 @@
+.body_gatos {
+    background: url(../img/ai-generated-backdrop-with-pictures-of-cute-pets-puppies-and-kittens-sitting-together-on-a-white-background-free-photo.jpg);
+} 
+
+.titulo_gatos {
+    text-align: center;
+    background-color: rgba(244, 161, 122, 0.8); /* Reducir la opacidad */
+    color: aliceblue;
+    border-radius: 10px; /* Reducir el radio del borde */
+    padding: 5px 10px; /* Reducir el tamaño del borde */
+    margin-top: 20px;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.introduccion_gatos {
+    text-align: center;
+    background-color: rgb(237, 168, 136); 
+    color: white;
+    border-radius: 10px; 
+    padding: 15px; 
+    margin-top: 30px;
+    font-size: 20px; 
+}
+    
+
+.titulo2 {
+    display: flex;
+    text-align: left;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(236, 179, 109);
+    color: aliceblue;
+    width: 35%;
+  
+}
+
+
+
+.contenedor2 {
+    text-align: center; 
+    margin: 20px auto;
+}
+
+.contenedor2 figure {
+    display: inline-block;
+    margin: 0 10px; 
+    max-width: 300px; 
+}
+
+.contenedor2 figure img {
+    width: 300px; 
+    height: 200px; 
+}
+
+.descripciongato1 {
+    width: 70%; /* Ancho de la descripción */
+    margin: 20px auto; /* Margen superior e inferior */
+    font-size: 18px; /* Tamaño de fuente más grande */
+    background-color: rgba(240, 180, 152, 0.614); /* Fondo de la descripción */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 20px; /* Borde redondeado */
+}

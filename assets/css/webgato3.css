@@ -1,0 +1,43 @@
+.bodyweb-gato2 {
+    background: url(../img/ai-generated-backdrop-with-pictures-of-cute-pets-puppies-and-kittens-sitting-together-on-a-white-background-free-photo.jpg);
+}
+
+.titulo_web_mrfresh {
+    text-align: center;
+    background-color: rgb(244, 161, 122);
+    color: aliceblue;
+    border-radius: 200px;
+    width: 100%;
+    font-size: 20px; 
+}
+
+.imagen-gato-comiendo {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    max-width: 1000px;
+}
+
+.imagen-gato-comiendo img {
+    width: 55%;
+    max-width: 600px; 
+}
+
+.descripciongato1 {
+    width: 50%; 
+    margin-left: 20px; 
+    font-size: 20px; 
+}
+
+.descripciongato1 p {
+    margin-bottom: 100px;
+}
+
+.descripciongato1 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.descripciongato1 ul li {
+    margin-bottom: 5px;
+}

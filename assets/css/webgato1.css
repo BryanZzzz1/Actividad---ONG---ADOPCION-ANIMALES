@@ -1,0 +1,26 @@
+
+
+
+.bodyweb-gato1{
+        background: url(../img/ai-generated-backdrop-with-pictures-of-cute-pets-puppies-and-kittens-sitting-together-on-a-white-background-free-photo.jpg);
+    } 
+
+    .titulo_web_mrfresh{
+        text-align: center;
+        background-color: rgb(244, 161, 122);
+        color: aliceblue;
+        border-radius: 200px;
+        
+    }
+    
+    .imagen-pres-mrfresh{
+        font-size: 20px; 
+        display: flex;
+        align-items: center;
+        margin-top: 120px;
+    }
+     
+    .GATOIMAGEN{
+        display: flex;
+        width: 4000px;
+    }
